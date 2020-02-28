@@ -5,7 +5,7 @@ gem "jekyll", "~> 3.8.5"
 gem "jekyll-redirect-from", "~> 0.14.0"
 
 group :development do
-  gem "rake", "~> 12.3.2"
+  gem "rake", "~> 12.3.3"
 end
 
 group :test do
